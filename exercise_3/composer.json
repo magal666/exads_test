@@ -1,0 +1,21 @@
+{
+  "name": "vinicius/exads_test",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vinicus",
+      "email": "vinicius.rodri.silva@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App"
+    }
+  }
+}
+
