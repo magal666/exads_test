@@ -17,6 +17,11 @@ create the database. You need to create a database and set up the params into
 the file ```exercise_3/App/util/Database.php```. After to set up the params you need
 to execute the querys into the file ```exercise_3/dump.sql```.
 
+#### Exercise 4
+The exercise 4 I show you the result with a number of interaction for prove the percentage,
+if you want to test a diffent result, just change the two params 
+(```$promoId``` and ```$numberInteraction``` ) in the file ```exercise_4/index.php```
+
 
 
 
