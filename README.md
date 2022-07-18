@@ -18,6 +18,7 @@ the file ```exercise_3/App/util/Database.php```. After to set up the params you 
 to execute the querys into the file ```exercise_3/dump.sql```.
 
 #### Exercise 4
+To execute the exercise 4, you need to install the components of the ```composes.json```.
 The exercise 4 I show you the result with a number of interaction for prove the percentage,
 if you want to test a diffent result, just change the two params 
 (```$promoId``` and ```$numberInteraction``` ) in the file ```exercise_4/index.php```
